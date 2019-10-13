@@ -1,0 +1,2 @@
+# ScriptingNotes
+Python / MEL
